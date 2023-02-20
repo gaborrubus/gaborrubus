@@ -4,6 +4,9 @@
  
 ![image](https://user-images.githubusercontent.com/125888791/220135539-ce648275-299a-4c59-83e0-1ec7ca509999.png)
 
+Programming Falmingos are cool, here is a chart to prove it
+
+
 
 
 | Type                  | Population    | Coolness |
