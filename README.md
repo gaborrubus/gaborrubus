@@ -10,6 +10,7 @@
 | --------------------- |:-------------:| --------:|
 | Chilean Flamingo      | 200000 birds  |      75% |
 | American Flamingo     | 200000 birds  |      80% |
+| American Flamingo     | 200000 birds  |      80% |
 | Programming Flamingo  |     10 people |     100% |
 
 
