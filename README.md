@@ -9,10 +9,14 @@
 | Type                  | Population    | Coolness |
 | --------------------- |:-------------:| --------:|
 | Chilean Flamingo      | 200000 birds  |      75% |
-| American Flamingo     | 200000 birds  |      80% |
-| American Flamingo     | 200000 birds  |      80% |
+| American Flamingo     | 260000 birds  |      80% |
+| Andean Flamingo       |  39000 birds  |      85% |
 | Programming Flamingo  |     10 people |     100% |
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+* For fun
+
+
+https://user-images.githubusercontent.com/125888791/220143027-0da4f28b-6afc-4ce0-bedb-828d53ef0822.mov
+
